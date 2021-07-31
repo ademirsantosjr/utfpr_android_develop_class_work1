@@ -23,3 +23,5 @@
   + Android SDK Platform-Tools versão 31.0.2
 ### SDK Mínimo
 * API 16: Android 4.1 (Jelly Bean)
+### Dispositivo Virtual
+* Nexus 5 API 29
