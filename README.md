@@ -1,8 +1,8 @@
-## Primeira aplicação para dispositivos móveis com Android Studio e Java
+## Desenvolvimento de uma primeira aplicação para dispositivos móveis com Android Studio e Java
 ### Objetivo
 * Configurar IDE
 * Criar e executar a primeira aplicação em um emulador Android
-* Testar componentes
+* Praticar TextView, EditText, Button e Toasts
 * Testar conceitos
 ### Linguagem
 * Java
