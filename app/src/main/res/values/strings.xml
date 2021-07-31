@@ -4,4 +4,7 @@
     <string name="clear">Clear</string>
     <string name="last_name">Last Name</string>
     <string name="full_name">Full Name</string>
+    <string name="first_name_error">First Name cannot be empty!</string>
+    <string name="last_name_error">Last Name cannot be empty!</string>
+    <string name="cleared_input_fields">Input Fields were cleared</string>
 </resources>
